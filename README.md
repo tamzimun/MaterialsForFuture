@@ -12,3 +12,7 @@ Links about Multithreating:
 Links about UITableView and UICollectionView:
    1) [Swift 3: UICollectionView vs UITableView](https://medium.com/@nitpaxy/swift-3-uicollectionview-vs-uitableview-9909bbc0ec66)
    2) [When to use UICollectionView instead of UITableView?](https://stackoverflow.com/questions/23078847/when-to-use-uicollectionview-instead-of-uitableview)
+
+Links to interesting and chilling articles:
+
+1) [Popular hints from Vincent](https://www.swiftwithvincent.com/tips/closures-and-capture-lists)
