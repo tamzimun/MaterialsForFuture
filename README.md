@@ -1,12 +1,21 @@
 # # MaterialsForFuture**
 Here we push links
 
+ARC:
+   1) [ARC and Memory Management in Swift](https://www.kodeco.com/966538-arc-and-memory-management-in-swift)
+   2) [Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
+   3) [Память в Swift от 0 до 1](https://habr.com/ru/company/hh/blog/546856/)
+   4) [Capture lists in Swift: what’s the difference between weak, strong, and unowned references?](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
+   5) [Что Такое @Escaping В Swift Замыканиях?](https://swiftbook.ru/post/tutorials/escaping-in-closures-in-swift/)
+   6) [What do mean @escaping and @nonescaping closures in Swift?](https://medium.com/swiftcommmunity/what-do-mean-escaping-and-nonescaping-closures-in-swift-d404d721f39d)
+
+
 Multithreating:
 
    1) [Всё о многопоточности в Swift: Часть 1: Настоящее](https://medium.com/@alexey_nenastev/всё-о-многопоточности-в-swift-часть-1-настоящее-f0b4d5718877)
    2) [Про многопоточность 2. GCD](https://habr.com/ru/post/578752/)
    3) [Многопоточность (concurrency) в Swift 3. GCD и Dispatch Queues](https://habr.com/ru/post/320152/)
-   4) [Многопоточное vs асинхронное программирование](https://ru.stackoverflow.com/questions/445768/Многопоточное-vs-асинхронное-программирование)\
+   4) [Многопоточное vs асинхронное программирование](https://ru.stackoverflow.com/questions/445768/Многопоточное-vs-асинхронное-программирование)
 
    
 UITableView and UICollectionView:
