@@ -29,3 +29,6 @@ Higher order functions in Swift:
 Links to interesting and chilling articles:
 
 1) [Popular hints from Vincent](https://www.swiftwithvincent.com/tips/closures-and-capture-lists)
+
+Codable, how to decode and encode properly:
+1) [Codable cheat sheet](https://www.hackingwithswift.com/articles/119/codable-cheat-sheet)
