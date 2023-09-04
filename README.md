@@ -32,3 +32,6 @@ Links to interesting and chilling articles:
 
 Codable, how to decode and encode properly:
 1) [Codable cheat sheet](https://www.hackingwithswift.com/articles/119/codable-cheat-sheet)
+
+Устройство компилятора
+1) [общий обзор компонентов](https://habr.com/ru/companies/e-legion/articles/438204/)
