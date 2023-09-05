@@ -38,3 +38,6 @@ Codable, how to decode and encode properly:
 
 OptimizationTips
 1) [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst)
+
+Define a protocol method as optional
+1) [How can we define a protocol method as optional in objective c and swift?](https://medium.com/@karthianandhanit/how-can-we-define-a-protocol-method-as-optional-in-objective-c-and-swift-dcde754b0b9a)
