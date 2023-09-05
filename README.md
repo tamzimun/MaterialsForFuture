@@ -41,3 +41,6 @@ OptimizationTips
 
 Define a protocol method as optional
 1) [How can we define a protocol method as optional in objective c and swift?](https://medium.com/@karthianandhanit/how-can-we-define-a-protocol-method-as-optional-in-objective-c-and-swift-dcde754b0b9a)
+
+Whats behind swift generic system?
+1) [Whats behind swift generic system?](https://nekitosss.github.io/programming/2019-05-12-swift-generics/)
