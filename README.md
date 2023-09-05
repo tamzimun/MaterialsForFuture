@@ -44,3 +44,6 @@ Define a protocol method as optional
 
 Whats behind swift generic system?
 1) [Whats behind swift generic system?](https://nekitosss.github.io/programming/2019-05-12-swift-generics/)
+
+Swift Style Guide
+1) [The Official Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide#memory-management)
