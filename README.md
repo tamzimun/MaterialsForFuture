@@ -35,3 +35,6 @@ Codable, how to decode and encode properly:
 
 Устройство компилятора
 1) [Общий обзор компонентов](https://habr.com/ru/companies/e-legion/articles/438204/)
+
+OptimizationTips
+1) [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst)
