@@ -50,5 +50,5 @@ Whats behind swift generic system?
  - [Whats behind swift generic system?](https://nekitosss.github.io/programming/2019-05-12-swift-generics/)
 
 
-Swift Style Guide**
+## Swift Style Guide
  - [The Official Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide#memory-management)
