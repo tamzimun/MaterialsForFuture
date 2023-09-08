@@ -23,27 +23,32 @@ UITableView and UICollectionView:
    
    
 Higher order functions in Swift:
-   1) [Higher order functions in Swift: Filter, Map, Reduce, flatmap, compactMap](https://abhimuralidharan.medium.com/higher-order-functions-in-swift-filter-map-reduce-flatmap-1837646a63e8)
+ - [Higher order functions in Swift: Filter, Map, Reduce, flatmap, compactMap](https://abhimuralidharan.medium.com/higher-order-functions-in-swift-filter-map-reduce-flatmap-1837646a63e8)
 
 
 Links to interesting and chilling articles:
+ - [Popular hints from Vincent](https://www.swiftwithvincent.com/tips/closures-and-capture-lists)
 
-1) [Popular hints from Vincent](https://www.swiftwithvincent.com/tips/closures-and-capture-lists)
-
+ 
 Codable, how to decode and encode properly:
-1) [Codable cheat sheet](https://www.hackingwithswift.com/articles/119/codable-cheat-sheet)
+ - [Codable cheat sheet](https://www.hackingwithswift.com/articles/119/codable-cheat-sheet)
+
 
 Устройство компилятора
-1) [Общий обзор компонентов](https://habr.com/ru/companies/e-legion/articles/438204/)
+ - [Общий обзор компонентов](https://habr.com/ru/companies/e-legion/articles/438204/)
+
 
 OptimizationTips
-1) [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst)
+ - [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst)
+
 
 Define a protocol method as optional
-1) [How can we define a protocol method as optional in objective c and swift?](https://medium.com/@karthianandhanit/how-can-we-define-a-protocol-method-as-optional-in-objective-c-and-swift-dcde754b0b9a)
+ - [How can we define a protocol method as optional in objective c and swift?](https://medium.com/@karthianandhanit/how-can-we-define-a-protocol-method-as-optional-in-objective-c-and-swift-dcde754b0b9a)
+
 
 Whats behind swift generic system?
-1) [Whats behind swift generic system?](https://nekitosss.github.io/programming/2019-05-12-swift-generics/)
+ - [Whats behind swift generic system?](https://nekitosss.github.io/programming/2019-05-12-swift-generics/)
 
-Swift Style Guide
-1) [The Official Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide#memory-management)
+
+Swift Style Guide**
+ - [The Official Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide#memory-management)
