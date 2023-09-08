@@ -56,3 +56,6 @@ Here we push links
 
 ## ViewController Lifecycle
  - [View Controller Lifecycle](https://guides.codepath.com/ios/View-Controller-Lifecycle)
+
+## Design patterns
+ - [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
