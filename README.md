@@ -8,6 +8,7 @@ Here we push links
    4) [Capture lists in Swift: what’s the difference between weak, strong, and unowned references?](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
    5) [Что Такое @Escaping В Swift Замыканиях?](https://swiftbook.ru/post/tutorials/escaping-in-closures-in-swift/)
    6) [What do mean @escaping and @nonescaping closures in Swift?](https://medium.com/swiftcommmunity/what-do-mean-escaping-and-nonescaping-closures-in-swift-d404d721f39d)
+   7) [Why Choose Struct Over Class?](https://stackoverflow.com/questions/24232799/why-choose-struct-over-class#:~:text=Structs%20are%20preferable%20if%20they,or%20in%20a%20multithreaded%20environment.)
 
 
 ## Multithreating:
@@ -56,6 +57,14 @@ Here we push links
 
 ## ViewController Lifecycle
  - [View Controller Lifecycle](https://guides.codepath.com/ios/View-Controller-Lifecycle)
+ - [What is the difference between -viewWillAppear: and -viewDidAppear:?](https://stackoverflow.com/questions/5630649/what-is-the-difference-between-viewwillappear-and-viewdidappear)
 
 ## Design patterns
  - [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
+
+## Clean Architecture
+ - [Clean Code](https://sd.blackball.lv/library/chistyj_kod_-_sozdanie_analiz_i_refaktoring_(2013).pdf)
+
+## SetNeedsLayout vs LayoutIfNeeded vs LayoutSubviews()
+ - [iOS swift — setNeedsLayout vs layoutIfNeeded vs layoutSubviews()](https://abhimuralidharan.medium.com/ios-swift-setneedslayout-vs-layoutifneeded-vs-layoutsubviews-5a2b486da31c)
+ - [When is layoutSubviews called?](https://stackoverflow.com/questions/728372/when-is-layoutsubviews-called)
