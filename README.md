@@ -68,3 +68,6 @@ Here we push links
 ## SetNeedsLayout vs LayoutIfNeeded vs LayoutSubviews()
  - [iOS swift — setNeedsLayout vs layoutIfNeeded vs layoutSubviews()](https://abhimuralidharan.medium.com/ios-swift-setneedslayout-vs-layoutifneeded-vs-layoutsubviews-5a2b486da31c)
  - [When is layoutSubviews called?](https://stackoverflow.com/questions/728372/when-is-layoutsubviews-called)
+
+## Frame buffer, Render Server, FPS, CPU vs GPU
+ - [Оптимизация рендера в iOS: frame buffer, Render Server, FPS, CPU vs GPU](https://habr.com/ru/articles/647177/)
