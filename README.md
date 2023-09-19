@@ -71,3 +71,6 @@ Here we push links
 
 ## Frame buffer, Render Server, FPS, CPU vs GPU
  - [Оптимизация рендера в iOS: frame buffer, Render Server, FPS, CPU vs GPU](https://habr.com/ru/articles/647177/)
+
+## ScrollEdgeAppearance
+ - [How to use scrollEdgeAppearance in iOS 15?](https://stackoverflow.com/questions/71523445/how-to-use-scrolledgeappearance-in-ios-15)
