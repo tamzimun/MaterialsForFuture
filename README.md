@@ -1,6 +1,8 @@
 # MaterialsForFuture
 Here we push links
 
+KolesaRoadMap for IOS developer is [HERE](https://recommend.kolesa.team/mobile-ios#!/tab/443236304-5)
+
 ## ARC:
    1) [ARC and Memory Management in Swift](https://www.kodeco.com/966538-arc-and-memory-management-in-swift)
    2) [Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
@@ -59,18 +61,72 @@ Here we push links
  - [View Controller Lifecycle](https://guides.codepath.com/ios/View-Controller-Lifecycle)
  - [What is the difference between -viewWillAppear: and -viewDidAppear:?](https://stackoverflow.com/questions/5630649/what-is-the-difference-between-viewwillappear-and-viewdidappear)
 
+
 ## Design patterns
  - [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
 
-## Clean Architecture
+
+## Architectures
  - [Clean Code](https://sd.blackball.lv/library/chistyj_kod_-_sozdanie_analiz_i_refaktoring_(2013).pdf)
+ - [MVVM is Exceptionally OK](https://ashfurrow.com/blog/mvvm-is-exceptionally-ok/)
+ - [8 Patterns to Help You Destroy Massive View Controller](https://khanlou.com/2014/09/8-patterns-to-help-you-destroy-massive-view-controller/)
+
+## Module Architecture
+ - [Модульная архитектура в iOS](https://codeswift.ru/modular-architecture-in-ios/)
+ - [Modular Architecture in iOS](https://medium.com/@leandromperez/a-modular-architecture-in-swift-aafd9026aa99)
+
+## SOLID
+ - [Принцип подстановки Барбары Лисков](https://habr.com/ru/articles/83269/)
+
 
 ## SetNeedsLayout vs LayoutIfNeeded vs LayoutSubviews()
  - [iOS swift — setNeedsLayout vs layoutIfNeeded vs layoutSubviews()](https://abhimuralidharan.medium.com/ios-swift-setneedslayout-vs-layoutifneeded-vs-layoutsubviews-5a2b486da31c)
  - [When is layoutSubviews called?](https://stackoverflow.com/questions/728372/when-is-layoutsubviews-called)
 
+
 ## Frame buffer, Render Server, FPS, CPU vs GPU
  - [Оптимизация рендера в iOS: frame buffer, Render Server, FPS, CPU vs GPU](https://habr.com/ru/articles/647177/)
 
+
 ## ScrollEdgeAppearance
  - [How to use scrollEdgeAppearance in iOS 15?](https://stackoverflow.com/questions/71523445/how-to-use-scrolledgeappearance-in-ios-15)
+
+
+## Deeplink
+ - [ЧТО ТАКОЕ DEEPLINK И КАК ИХ СОЗДАВАТЬ?](https://affhub.media/chto-takoe-deeplink-i-kak-ix-sozdavat/)
+
+
+## UIAppearence
+ - [What UIAppearance protocol is designed for?](https://www.google.com/search?q=What+UIAppearance+protocol+is+designed+for?%0D%0A&sca_esv=561015036&sxsrf=AB5stBiewtGIFkKIZJE7ZRhJXMz2YC8YEg:1693320701033&ei=_AXuZOawO_y9wPAPqOmeiA8&ved=0ahUKEwjmnv2Wj4KBAxX8HhAIHai0B_EQ4dUDCA8&uact=5&oq=What+UIAppearance+protocol+is+designed+for?%0D%0A&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgDIixXaGF0IFVJQXBwZWFyYW5jZSBwcm90b2NvbCBpcyBkZXNpZ25lZCBmb3I_CjIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIKECMY6gIYJxiLA0jzGlD6EVj6EXACeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQH4AQKoAgriAwQYACBBiAYB&sclient=gws-wiz-serp)
+
+
+## Core Motion
+ - [How to use Core Motion in iOS using Swift](https://maximbilan.medium.com/how-to-use-core-motion-in-ios-using-swift-1287f7422473)
+
+
+## Keyboard
+ - [Keyboard Handling in iOS — Swift 5](https://nqaze.medium.com/keyboard-handling-in-ios-swift-5-8b60d602a8f)
+
+
+## Dependency injection vs dependency inversion swift
+ - [Dependency injection vs dependency inversion swift](https://www.youtube.com/results?search_query=dependency+injection+vs+dependency+inversion+swift)
+
+
+## HitTest
+ - [Держим удар с hitTest](https://medium.com/yandex-maps-mobile/%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%BC-%D1%83%D0%B4%D0%B0%D1%80-%D1%81-hittest-542653d51a8c)
+
+
+## Dispach methods
+ - [Диспетчеризация в Swift: погружение в теорию и практику](https://habr.com/ru/companies/simbirsoft/articles/673636/)
+ - [Method Swizzling и Swift: но есть нюанс](https://habr.com/ru/articles/274545/)
+
+## UIKit hierarchy chart
+ - [UIKit class hierarchy chart](https://finalizecode.wordpress.com/2012/12/14/uikit-class-hierarchy-chart/)
+
+
+## 
+ - [MVVM is Exceptionally OK](https://ashfurrow.com/blog/mvvm-is-exceptionally-ok/)
+
+
+## 
+ - []()
